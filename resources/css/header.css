@@ -44,7 +44,7 @@
   align-items: center;
   background-color: white;
   width: 90%; /* Sesuaikan lebar */
-  min-width: 500px; /* Batas lebar maksimum */
+  min-width: 400px; /* Batas lebar maksimum */
   margin: auto; /* Pusatkan kontainer */
   padding: 20px; /* Tambahkan padding */
 }

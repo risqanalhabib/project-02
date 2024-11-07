@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../css-1/about.css">
   <title>About Us</title>
 </head>
-
+ 
 <body>
   <section id="about-section" class="about-section container mt-5">
 
